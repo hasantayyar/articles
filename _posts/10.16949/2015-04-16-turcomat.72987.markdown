@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ACE Cycle in Programming Education by Using Visualization"
+date:   2015-04-16 14:15:52
+categories: Programming Education
+---
+Students experience difficulties in learning computer programming. Researchers have conducted several studies with different perspectives to help students learn programming. The ACE cycle constructed in the context of mathematics education was adapted to programming education and called PACE cycle. The aim of the study was to test effectiveness of the PACE cycle by using both quantitative and qualitative measures. The sample of the study included 62 mechanical engineering students. The students were randomly assigned to control and experimental groups. Experimental group was instructed by using PACE cycle whereas control group was instructed by using ‘traditional instruction’. Both quantitative and qualitative data were gathered before and after the treatment. It was found that there is no significant difference between achievement and attitude scores of experimental and control group students. Nevertheless, it is hard to announce PACE cycle as ineffective depending only on this result. Qualitative data showed that students, in the control group, did not percieve their instruction as traditional one. This might show us that the definition of ‘traditional instruction’ can change depending on the context. It might be the case that students’ perception and experience related to their instruction affected the results of the study.Key Words:    ACE cycle, programming education, PACE cycle, mixed-method design 
+
