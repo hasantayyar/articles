@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
     Collected articles about Computer Science. All articles willb e hosted as plain and readable format.
 baseurl: "/articles"
 url: "http://hasantayyar.github.io/" # will be articles.lesson.im later
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: htayyar
+github_username:  hasantayyar
 
 # Build settings
 markdown: kramdown
