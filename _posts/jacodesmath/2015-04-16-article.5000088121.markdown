@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "A database of linear codes over F_13 with minimum distance bounds and new quasi-twisted codes from a heuristic search algorithm"
+date:   2015-04-16 16:00:00
+category: Database
+tags: [Database of linear codes, Quasi-twisted codes, Heuristic search algorithm, Iterative search]
+---
+ Error control codes have been widely used in data communications and storage systems. One central problem in coding theory is to optimize the parameters of a linear code and construct codes with best possible parameters. There are tables of best-known linear codes over finite fields of sizes up to 9. Recently, there has been a growing interest in codes over $\mathbb{F}_{13}$ and other fields of size greater than 9. The main purpose of this work is to present a database of best-known linear codes over the field $\mathbb{F}_{13}$ together with upper bounds on the minimum distances. To find good linear codes to establish lower bounds on minimum distances, an iterative heuristic computer search algorithm is employed to construct quasi-twisted (QT) codes over the field $\mathbb{F}_{13}$ with high minimum distances. A large number of new linear codes have been found, improving previously best-known results. Tables of $[pm, m]$ QT codes over $\mathbb{F}_{13}$ with best-known minimum distances as well as a table of lower and upper bounds on the minimum distances for linear codes of length up to 150 and dimension up to 6 are presented.
+
+
