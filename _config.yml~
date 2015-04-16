@@ -12,4 +12,4 @@ github_username:  hasantayyar
 markdown: kramdown
 
 paginate: 20
-paginate_path: '/page/:num'
+paginate_path: '/articles/:num'

@@ -9,4 +9,7 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+ <title>{{ site.domain }}{% if page.title %} &ndash; {{ page.title }}{% endif %}</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <meta name="author" content="{{ site.author.name }}">
 </head>
