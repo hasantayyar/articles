@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The Go Programming Language"
+date:   2015-04-20 14:15:52
+doi: 10.1109/MS.2014.127
+link: http://ieeexplore.ieee.org/search/searchresult.jsp?reload=true&action=search&searchField=Search_All&matchBoolean=true&queryText=%22DOI%22:%2210.1109/MS.2014.127%22  
+authors: Meyerson, Jeff 
+category: Programming
+tags: [Programming, Google, golang,compilers]
+---
+Andrew Gerrand, who works on the Go programming language at Google, speaks with Jeff Meyerson in this excerpt from Software Engineering Radio. His conversation with Jeff begins with a history of the language, including the details behind how Go was conceived and how the open source community contributes to it. Andrew explains how Go intends to simplify problems which have been motifs as Google has scaled. The Web extra at http://www.se-radio.net/2014/03/episode-202-andrew-gerrand/ is an audio recording of Jeff Meyerson speaking with Andrew Gerrand about the Go programming language. [ABSTRACT FROM PUBLISHER]
+ 
+Copyright of IEEE Software is the property of IEEE Computer Society and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use. This abstract may be abridged. No warranty is given about the accuracy of the copy. Users should refer to the original published version of the material for the full abstract. (Copyright applies to all Abstracts.)
+

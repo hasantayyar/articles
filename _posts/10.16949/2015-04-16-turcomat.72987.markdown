@@ -2,6 +2,8 @@
 layout: post
 title:  "ACE Cycle in Programming Education by Using Visualization"
 date:   2015-04-16 14:15:52
+link: http://dergipark.ulakbim.gov.tr/turkbilmat/article/view/5000070509
+authors: İbrahim Çetin, Ercan Top
 category: Education
 tags: [Programming education, visualization]
 ---

@@ -2,6 +2,8 @@
 layout: post
 title:  "A database of linear codes over F_13 with minimum distance bounds and new quasi-twisted codes from a heuristic search algorithm"
 date:   2015-04-16 16:00:00
+link: http://dergipark.ulakbim.gov.tr/jacodesmath/article/view/5000088121
+authors: Eric Z. Chen, Nuh Aydın
 category: Database
 tags: [Database of linear codes, Quasi-twisted codes, Heuristic search algorithm, Iterative search]
 ---

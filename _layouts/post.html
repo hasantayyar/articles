@@ -14,9 +14,21 @@ layout: default
    </header>
 
     <div id="post-content">
+	<span style="color:#229; padding:2px;margin:2px;display:block">{{post.authors}}</span>
         {{ content }}
 
 <p id="post-meta">
+        {% if post.link %}
+             <span class="label label-default" style="background-color:#822;display:block;padding:3px; font-size:11px;border-radius:4px;">
+		<a href="{{post.link}}" style="text-decoration:none;color:#def;">{{post.link}}</a>
+	     </span>
+        {% endif %}
+	{% if post.doi %}
+             <span class="label label-default" style="background-color:#efefef;display:block;padding:2px;border-radius:4px;">
+             Doi : {{post.doi}}
+	     </span>
+        {% endif %}
+
         {% if post.category %}   
              <span class="label label-default" style="background-color:#599;padding:2px;border-radius:4px;">{{post.category}}</span>
         {% endif %}
